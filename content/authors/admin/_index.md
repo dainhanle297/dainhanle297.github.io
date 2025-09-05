@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Dai-Nhan Le
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dai-Nhan
+last_name: Le
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
