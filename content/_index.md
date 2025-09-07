@@ -35,15 +35,16 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to introduce your mission. I'm a researcher in structural engineering with a focus on artificial intelligence and computational modeling. My work explores advanced deep learning and hybrid machine learning methods for predicting the behavior of steel and concrete structures.
+  content:
+    title: "📚 My Research"
+    subtitle: ""
+    text: |-
+      Use this area to introduce your mission. I'm a researcher in structural engineering with a focus on artificial intelligence and computational modelling. My work explores advanced deep learning and hybrid machine learning methods for predicting the behavior of steel and concrete structures.
 
-I aim to bridge structural engineering and AI to develop resilient and sustainable infrastructure.
+      I aim to bridge structural engineering and AI to develop resilient and sustainable infrastructure.
 
-Feel free to reach out for collaboration 🤝
+      Feel free to reach out for collaboration 🤝
+
     design:
       columns: '1'
   - block: collection
