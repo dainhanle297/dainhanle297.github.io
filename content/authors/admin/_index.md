@@ -52,42 +52,31 @@ profiles:
 interests:
   - Structural Engineering
   - Health Structural Monitoring
-  - Finite Element Modeling
-  - AI and Machine Learning in Civil Engineering
+  - Finite Element Modelling
+  - AI in Civil Engineering
   - Smart Construction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: M.Eng. Structural Engineering
+    institution: Chulalongkorn University
+    date_start: 2024-01-01
+    date_end: 2026-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.75/4.00
+      summary: |
+      Thesis on Advanced Deep Learning Approaches For Predicting The Structural Response Of Unstiffened Steel Plate Girders Under Patch Loading. Supervised by [Prof Sawekchai Tangaramvong]([https://example.com](https://scholar.google.com/citations?user=vnNoua0AAAAJ&hl=vi&oi=ao)). Presented one conference paper and published two research articles in high-impact Q1 journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    
+  - area: BSc. Civil Engineering
+    institution: Hanoi University of Civil Engineering
+    date_start: 2018-01-01
+    date_end: 2023-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.34/4.00
+  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
