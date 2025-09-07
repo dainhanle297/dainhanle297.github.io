@@ -48,7 +48,7 @@ sections:
         </div>
     
     
-   - block: markdown
+  - block: markdown
     content:
       title: "📚 Recent Publications"
       subtitle: ""
