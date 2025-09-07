@@ -65,7 +65,7 @@ education:
     summary: |
       GPA: 3.75/4.00
     
-      Thesis on *Advanced Deep Learning Approaches For Predicting The Structural Response Of Unstiffened Steel Plate Girders Under Patch Loading*. Supervised by [Prof Sawekchai Tangaramvong]([https://example.com](https://scholar.google.com/citations?user=vnNoua0AAAAJ&hl=vi&oi=ao)). Presented one conference paper and published two research articles in high-impact Q1 journals.
+      Thesis on *Advanced Deep Learning Approaches For Predicting The Structural Response Of Unstiffened Steel Plate Girders Under Patch Loading*. Supervised by [Prof Sawekchai Tangaramvong](https://scholar.google.com/citations?user=vnNoua0AAAAJ&hl=vi&oi=ao). Presented one conference paper and published two research articles in high-impact Q1 journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -107,85 +107,70 @@ skills:
   - name: Coding
     items:
       - name: Python
-        description: ''
         percent: 90
-        icon: code-bracket
+        icon: fa-python
       - name: MATLAB
-        description: ''
         percent: 80
-        icon: function-square
+        icon: fa-square-root-variable
       - name: VBA
-        description: ''
         percent: 60
-        icon: file-code
+        icon: fa-file-code
       - name: LaTeX
-        description: ''
         percent: 70
-        icon: file-text
+        icon: fa-file-lines
 
   - name: Structural Analysis
     items:
       - name: ABAQUS
-        description: ''
         percent: 85
-        icon: cube
+        icon: fa-cube
       - name: ETABS
-        description: ''
         percent: 80
-        icon: building
+        icon: fa-diagram-project
       - name: Robot Structural Analysis
-        description: ''
         percent: 75
-        icon: settings
+        icon: fa-gears
       - name: Adapt Builder
-        description: ''
         percent: 70
-        icon: wrench
+        icon: fa-wrench
 
   - name: Shop Drawing
     items:
       - name: Revit
-        description: ''
         percent: 80
-        icon: drafts
+        icon: fa-drafting-compass
       - name: Tekla
-        description: ''
         percent: 75
-        icon: layers
+        icon: fa-layer-group
 
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Reading
-        description: ''
         percent: 100
-        icon: book
+        icon: fa-book
       - name: Chess
-        description: ''
         percent: 90
-        icon: chess
+        icon: fa-chess
       - name: Guitar
-        description: ''
         percent: 70
-        icon: guitar
+        icon: fa-guitar
       - name: Piano
-        description: ''
         percent: 60
-        icon: piano
+        icon: fa-music
 
 languages:
   - name: Vietnamese
     percent: 100
   - name: English
-    percent: 80
+    percent: 90
+
 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+# awards:
  # - title: Neural Networks and Deep Learning
    # url: https://www.coursera.org/learn/neural-networks-deep-learning
    # date: '2023-11-25'
