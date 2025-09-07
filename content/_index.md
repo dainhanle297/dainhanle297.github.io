@@ -39,11 +39,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Use this area to introduce your mission. I'm a researcher in structural engineering with a focus on artificial intelligence and computational modeling. My work explores advanced deep learning and hybrid machine learning methods for predicting the behavior of steel and concrete structures.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+I aim to bridge structural engineering and AI to develop resilient and sustainable infrastructure.
+
+Feel free to reach out for collaboration 🤝
     design:
       columns: '1'
   - block: collection
