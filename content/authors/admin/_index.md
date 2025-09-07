@@ -64,7 +64,8 @@ education:
     date_end: 2026-12-31
     summary: |
       GPA: 3.75/4.00
-      Thesis on Advanced Deep Learning Approaches For Predicting The Structural Response Of Unstiffened Steel Plate Girders Under Patch Loading. Supervised by [Prof Sawekchai Tangaramvong]([https://example.com](https://scholar.google.com/citations?user=vnNoua0AAAAJ&hl=vi&oi=ao)). Presented one conference paper and published two research articles in high-impact Q1 journals.
+    
+      Thesis on *Advanced Deep Learning Approaches For Predicting The Structural Response Of Unstiffened Steel Plate Girders Under Patch Loading*. Supervised by [Prof Sawekchai Tangaramvong]([https://example.com](https://scholar.google.com/citations?user=vnNoua0AAAAJ&hl=vi&oi=ao)). Presented one conference paper and published two research articles in high-impact Q1 journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -103,44 +104,82 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Coding
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: function-square
+      - name: VBA
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 60
+        icon: file-code
+      - name: LaTeX
+        description: ''
+        percent: 70
+        icon: file-text
+
+  - name: Structural Analysis
+    items:
+      - name: ABAQUS
+        description: ''
+        percent: 85
+        icon: cube
+      - name: ETABS
+        description: ''
+        percent: 80
+        icon: building
+      - name: Robot Structural Analysis
+        description: ''
+        percent: 75
+        icon: settings
+      - name: Adapt Builder
+        description: ''
+        percent: 70
+        icon: wrench
+
+  - name: Shop Drawing
+    items:
+      - name: Revit
+        description: ''
+        percent: 80
+        icon: drafts
+      - name: Tekla
+        description: ''
+        percent: 75
+        icon: layers
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: book
+      - name: Chess
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: chess
+      - name: Guitar
+        description: ''
+        percent: 70
+        icon: guitar
+      - name: Piano
+        description: ''
+        percent: 60
+        icon: piano
 
 languages:
-  - name: English
+  - name: Vietnamese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
