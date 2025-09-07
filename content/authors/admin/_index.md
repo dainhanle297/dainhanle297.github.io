@@ -106,63 +106,50 @@ education:
 skills:
   - name: Coding
     items:
-      - name: Python
-        percent: 90
-        icon: fa-python
-      - name: MATLAB
-        percent: 80
-        icon: fa-square-root-variable
-      - name: VBA
-        percent: 60
-        icon: fa-file-code
-      - name: LaTeX
-        percent: 70
-        icon: fa-file-lines
+      - name: 🐍 Python
+       
+      - name: 📊 MATLAB
+        
+      - name: 📑 VBA
+        
+      - name: 📄 LaTeX
+        
 
   - name: Structural Analysis
     items:
-      - name: ABAQUS
-        percent: 85
-        icon: fa-cube
-      - name: ETABS
-        percent: 80
-        icon: fa-diagram-project
-      - name: Robot Structural Analysis
-        percent: 75
-        icon: fa-gears
-      - name: Adapt Builder
-        percent: 70
-        icon: fa-wrench
+      - name: 🧊 ABAQUS
+       
+      - name: 🏗️ ETABS
+        
+      - name: 🤖 Robot Structural Analysis
+        
+      - name: 🔧 Adapt Builder
+       
 
   - name: Shop Drawing
     items:
-      - name: Revit
-        percent: 80
-        icon: fa-drafting-compass
-      - name: Tekla
-        percent: 75
-        icon: fa-layer-group
+      - name: 📐 Revit
+      
+      - name: 🧱 Tekla
+        
 
   - name: Hobbies
     items:
-      - name: Reading
-        percent: 100
-        icon: fa-book
-      - name: Chess
-        percent: 90
-        icon: fa-chess
-      - name: Guitar
-        percent: 70
-        icon: fa-guitar
-      - name: Piano
-        percent: 60
-        icon: fa-music
+      - name: 📚 Reading
+       
+      - name: ♟️ Chess
+        
+      - name: 🎸 Guitar
+        
+      - name: 🎹 Piano
+       
 
 languages:
   - name: Vietnamese
     percent: 100
   - name: English
     percent: 90
+
 
 
 
