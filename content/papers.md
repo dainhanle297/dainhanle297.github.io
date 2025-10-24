@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
+  - block: resume-experience
     design:
       full_width: true    # 🔥 mở rộng toàn màn hình
     content:
