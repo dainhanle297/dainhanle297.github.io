@@ -11,6 +11,8 @@ design:
 # Page sections
 sections:
   - block: markdown
+    design:
+      full_width: true    # 🔥 mở rộng toàn màn hình
     content:
       title: "📚 Recent Publications"
       subtitle: ""
