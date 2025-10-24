@@ -79,6 +79,9 @@ education:
 
 paper:
   - block: markdown
+    content:
+      title: "📚 Recent Publications"
+      subtitle: ""
       text: |-
         **Journal Articles**
         - **D.-N. Le**, Q.-V. Vu, T.-H. Pham, V.-T. Huynh, and S. Tangaramvong.  
@@ -113,6 +116,7 @@ paper:
         - **D.-N. Le**, Q.-V. Vu, and S. Tangaramvong.  
           "An efficient deep learning approach for predicting the ultimate load and maximum lateral web deformation of unstiffened steel plate girders under patch loading."  
           In *Proceeding of The 30th National Convention on Civil Engineering*, vol. 30, 2025.
+
 
 
  
